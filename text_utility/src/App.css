@@ -1,0 +1,21 @@
+.App {
+  padding: 1vw 5vw 0vw 5vw;
+}
+textarea{
+  width: 100%;
+  height: 10vw;
+}
+
+button{
+  cursor: pointer;
+  margin: 1vh;
+  background-color:#2158FF;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding:1vw;
+}
+
+textarea:focus , button:hover{
+  box-shadow: #2158FF 0px 3px 8px;
+}
