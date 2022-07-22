@@ -10,7 +10,7 @@ function App() {
 
    const ones = [' zero ',' one ', ' two ', ' three ' , ' four ' , ' five ' , ' six ' , ' seven ' , ' eight ' , ' nine ',' ten ',' eleven ' , ' twelve ' , ' thirteen ' , ' fourteen ' , ' fifteen ' , ' sixteen ' ,' seventeen ' ,' eightteen ' , ' nineteen ' ]
    const tens = ['twenty' , 'thirty' , 'fourty' , 'fifty' , 'sixty' , 'seventy' , 'eighty' , 'ninety']
-   const htlc = [' hundred ' , 'thousand ' , ' lakh ' , ' crore']
+   const htlc = [' hundred ' , 'thousand ' , ' lakh ' , ' crore' , ' arab ' , ' kharab ' , ' padam ' , ' shank ' , ' mahashank ']
 
 
   const changeHandler = (e) => {
